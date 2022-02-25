@@ -1,0 +1,109 @@
+
+
+
+
+*** Testing Dtree
+
+	//Obj = new DTree();
+	////	input();
+	////Account acc1("Adeel", 7, 1, "", "");
+	////Account acc2("Adeel", 4, 1, "", "");
+	////Account acc3("Adeel", 14, 1, "", "");
+	////Account acc4("Adeel", 3, 1, "", "");
+	////Account acc5("Adeel", 6, 1, "", "");
+	////Account acc6("Adeel", 8, 1, "", "");
+	////Account acc7("Adeel", 15, 1, "", "");
+	////Account acc8("Adeel", 5, 1, "", "");
+	////Account acc9("Adeel", 13, 1, "", "");
+	////Account acc10("Adeel", 9, 1, "", "");
+	////Account acc11("Adeel", 11, 1, "", "");	////Obj->insert(acc1);
+	////Obj->insert(acc2);
+	////Obj->insert(acc3);
+	////Obj->insert(acc4);
+	////Obj->insert(acc5);
+	////Obj->insert(acc6);
+	////Obj->insert(acc7);
+	////Obj->insert(acc8);
+	////Obj->insert(acc9);
+	////Obj->insert(acc10);
+	////Obj->insert(acc11);
+	////Obj->printAccounts();
+	//Account acc1("Adeel", 3, 1, "", "");
+	//Account acc2("Adeel", 5, 1, "", "");
+	//Account acc3("Adeel", 2, 1, "", "");
+	//Account acc4("Adeel", 7, 1, "", "");
+	//Account acc5("Adeel", 1, 1, "", "");
+	//Account acc6("Adeel", 0, 1, "", "");
+	//Account acc7("Adeel", 9, 1, "", "");
+	//Account acc8("Adeel", 11, 1, "", "");
+	//Account acc9("Adeel", 13, 1, "", "");
+	//Obj->insert(acc1);
+	//Obj->insert(acc2);
+	//Obj->insert(acc3);
+	//Obj->insert(acc4);
+	//Obj->insert(acc5);
+	//Obj->insert(acc6);
+	//Obj->insert(acc7);
+	//Obj->insert(acc8);
+	//Obj->insert(acc9);
+	//
+	//DNode *temp = nullptr;
+	////Obj->remove(7383,temp);
+	////
+	////cout << endl << "\n\n\nDeleting 7383\n\n" << endl;
+	//cout << endl << "PRINTING In Suorce" << endl;
+	//
+	//Obj->printAccounts();
+	//
+	//	cout << endl << endl;
+
+
+
+
+*******************
+
+	UTree *Obj = new UTree();
+
+	Account acc1("n", 7, 1, "", "");
+	Account acc2("f", 4, 1, "", "");
+	Account acc3("t", 14, 1, "", "");
+	Account acc4("c", 3, 1, "", "");
+	Account acc5("h", 6, 1, "", "");
+	Account acc6("p", 6, 1, "", "");
+	Account acc7("w", 6, 1, "", "");
+	Account acc8("a", 6, 1, "", "");
+	Account acc9("e", 6, 1, "", "");
+	Account acc10("g", 6, 1, "", "");
+	Account acc11("o", 6, 1, "", "");
+	Account acc12("u", 6, 1, "", "");
+	Account acc13("y", 6, 1, "", "");
+
+	Obj->insert(acc1);
+	Obj->insert(acc2);
+	Obj->insert(acc3);
+	Obj->insert(acc4);
+	Obj->insert(acc5);
+	Obj->insert(acc6);
+	Obj->insert(acc7);
+	Obj->insert(acc8);
+	Obj->insert(acc9);
+	Obj->insert(acc10);
+	Obj->insert(acc11);
+	Obj->insert(acc12);
+	Obj->insert(acc13);
+
+	Obj->printUsers();
+
+	cout << endl << endl << endl;
+
+	Obj->Delete("c");
+	cout << "DEleteing c \n";
+
+	Obj->printUsers();
+
+	****************
+
+
+
+
+

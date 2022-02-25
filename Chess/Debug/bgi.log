@@ -1,0 +1,33 @@
+﻿Build started 29/10/2020 8:34:04 pm.
+     1>Project "F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\CHESS\BGI2010\bgi\bgi.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cxx
+         main.cxx
+     1>f:\semester data\3rd semester\oop\visual studio\after mid\chess\bgi2010\bgi\king.h(25): warning C4172: returning address of local variable or temporary
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\CHESS\BGI2010\bgi\Debug\bgi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\CHESS\BGI2010\bgi\Debug\bgi.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\CHESS\BGI2010\bgi\Debug\bgi.lib" /MACHINE:X86 Debug\bgiout.obj
+         Debug\Bishop.obj
+         Debug\Board.obj
+         Debug\dibutil.obj
+         Debug\drawing.obj
+         Debug\file.obj
+         Debug\King.obj
+         Debug\Knight.obj
+         Debug\misc.obj
+         Debug\mouse.obj
+         Debug\palette.obj
+         Debug\main.obj
+         Debug\Pawn.obj
+         Debug\PIECE.obj
+         Debug\Queen.obj
+         Debug\Rook.obj
+         Debug\Source.obj
+         Debug\text.obj
+         Debug\winbgi.obj
+         Debug\winthread.obj
+         bgi.vcxproj -> F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\CHESS\BGI2010\bgi\Debug\bgi.exe
+     1>Done Building Project "F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\CHESS\BGI2010\bgi\bgi.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.40

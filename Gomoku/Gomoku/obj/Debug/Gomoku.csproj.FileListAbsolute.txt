@@ -1,0 +1,24 @@
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\bin\Debug\Gform.resx
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\bin\Debug\Gform.cs
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\bin\Debug\Gform.Designer.cs
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.Gform.resources
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\adeel\Documents\Visual Studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\bin\Debug\Gform.resx
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\bin\Debug\Gform.cs
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\bin\Debug\Gform.Designer.cs
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\obj\Debug\Gomoku.Gform.resources
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+F:\SEMESTER DATA\3rd Semester\OOP\Visual Studio\After Mid\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
